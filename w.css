@@ -1,0 +1,146 @@
+body
+{
+    font-family: 'Handlee', cursive;
+    margin: 0%;
+    padding: 0%;
+
+}
+ 
+.font-colour
+{
+color: orange;
+}
+
+h1
+{
+    font-size: 50px;
+}
+h3
+{
+    font-size: 30px;
+}
+.half
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.half img
+{
+    width: 80%;
+}
+h1
+{
+    line-height: 0.07cm;
+}
+#pad 
+{
+    padding-top: 100px;
+}
+p
+{
+    line-height: 50px;
+}
+#new {
+    padding-top: 100px;
+}
+.halfe img {
+    width: 15%;
+    
+}
+
+section{
+    height: 500px;
+    padding-bottom: 180px;
+}
+h2
+{
+  font-weight: 500px;
+    font-size: 30px;
+    margin: 80px;
+    padding-right: 20px;
+    text-align: center;
+}  
+.team
+{
+    width: 1170px;
+    margin: 2% auto;
+}
+.fastimg
+{
+    box-shadow: 5px 5px 15px tomato;
+    width: 25%;
+    height: 10px
+    position: relative;
+    display: block;
+    overflow: hidden;
+    padding: 30px;
+    text-align: center;
+    margin: 10px 10px;
+    background: white;
+    float: left;
+    border-radius: 10px;
+
+    
+}
+
+.fastimg img
+{
+    width: 100%;
+}
+#id
+.team h3
+{
+    font-size: 10px;
+}
+.lastpart
+{
+    width: 1179px;
+    margin: 2% auto;
+}
+.chat
+{
+    width: 1%;
+     padding: 280px;
+     height: 5px;
+    display: inline-block;
+      font-size: 25px;
+        margin: 1px 1px;
+     float: left;
+     text-align: center;
+    
+}
+.ccc
+{
+    background-image: url( image/image/Group_33094_1.png );
+    background-position: center;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+#button {
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 12px 70px;
+    margin: 4px 12px;
+    border-radius: 10px;
+    color: white;
+    font-display: line;
+}
+#colour1
+{
+    color: navy;
+}
+#colour2
+{
+    color: tomato;
+}
+#colour3
+{
+ color: navy;
+}
+#colour5
+{
+    color: gray;
+}
